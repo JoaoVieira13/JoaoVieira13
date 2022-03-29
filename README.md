@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoaoVieira13
 - 👀 I’m interested in learn more about any type of technology
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Angular on my internship in https://www.pri.pt/
 - 💬 Ask me about HTML, CSS
 - 📫 How to reach me joaoantoniopintovieira13@gmail.com
